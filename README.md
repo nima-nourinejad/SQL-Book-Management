@@ -1,6 +1,5 @@
 # Book Management SQL Project
 
-
 ## Overview
 This SQL project demonstrates proficiency in database management, including table creation, record manipulation (insertion, updating, deletion), and querying.
 
