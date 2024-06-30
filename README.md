@@ -5,6 +5,8 @@
 This SQL project demonstrates proficiency in database management, including table creation, record manipulation (insertion, updating, deletion), and querying.
 
 
+
+
 ## Key Features
 - Table Creation: Create a table to store information about books.
 - Record Insertion: Insert new records into the books table.
